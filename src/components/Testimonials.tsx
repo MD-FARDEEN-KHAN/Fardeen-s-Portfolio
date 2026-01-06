@@ -17,7 +17,7 @@ const Testimonials = () => {
     },
     {
       name: "Syeda Sidrah Fatima",
-      role: "Cognizant",
+      role: "Tech Mahindra",
       image: "https://api.dicebear.com/7.x/avataaars/svg?seed=Sidrah",
       quote: "Fardeen's passion for technology and continuous learning makes him stand out. He brings creativity and technical excellence to every project."
     }
